@@ -29,22 +29,16 @@
 - ![image](https://github.com/user-attachments/assets/ff753eb2-bf24-4ac9-9ca6-55996c275eb7)
 - 選擇英文,按下一步
 - ![image](https://github.com/user-attachments/assets/e66707c7-8b4f-46e9-9d1b-35e3a232f8a7)
+- 至'Network And Host Name'
+- 自訂義主機名稱
+- 點選'Choose Software'
+- 選取「工作站」，這是適合一般桌上電腦用戶使用的設定。並將右邊額外的軟體都打勾。按左上角完成
+- 點選root，設定root密碼(六位數)，按左上角完成。
+- 點選建立一般使用者。建立一般使用者user，勾選加入至管理員。按左上角完成。
+- 回到安裝主界面，點選右下角的「安裝」，等它跑完。
+- 安裝後重開機。
+- 進入系統後，滑鼠移動到左上角的「概覽」開啟應用程式選單，找到「Red Hat訂閱管理程式」
+- 登入Redhat帳號，並註冊裝置。
+- 開啟終端機，輸入sudo dnf update指令，將系統套件都更新到最新版。
+- 設定完成
 
-
-
-
-- 下載 Red Hat Linux ISO檔
-## 虛擬機器配置
-- 建立新的虛擬機器：
-- 開啟VirtualBox或VMware，並建立一個新的虛擬機器。
-- 為虛擬機器分配合適的資源（如CPU核心數、記憶體、磁碟空間）。
-- 選擇Linux類型，並選擇對應的Red Hat版本。
-- 設定儲存和網路：
-- 配置虛擬機器的硬碟類型為分配動態或固定大小的 VDI、VMDK 檔案。
-- 設定網路設定（橋接模式或NAT，取決於您的需求）。
-- 安裝Red Hat Linux：
-- 啟動虛擬機器並載入Red Hat的ISO鏡像，完成作業系統的安裝。
-- 在安裝過程中，根據需要選擇安裝的硬體和服務。
-- 更新系統和安裝工具：
-- 安裝完成後，確保運行yum update來更新系統。
-- 安裝 VirtualBox 或 VMware Tools（根據虛擬化平台），以獲得更好的虛擬機器效能和功能支援。
