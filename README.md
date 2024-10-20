@@ -54,7 +54,7 @@
 - ![螢幕擷取畫面 2024-10-20 114041](https://github.com/user-attachments/assets/47b5fb46-efff-45f0-a9c1-2029b228001a)
 - 點選'Local Standard Disk'的'第一個硬碟'(需要多執行幾次,才會寫入配置)
 - ![image](https://github.com/user-attachments/assets/656f8126-4fc0-4881-8d57-e3dd5a062e57)
-- 點選'Begin Installation'
+- 'Begin Installation'有亮起來就可以點選
 - ![螢幕擷取畫面 2024-10-20 114631](https://github.com/user-attachments/assets/8a01dc84-d549-4440-979d-309b2a302c73)
 - Red Hat Linux 系統安裝中
 - ![螢幕擷取畫面 2024-10-20 115154](https://github.com/user-attachments/assets/e4e93128-0e16-4c54-b50e-bd0c7ad69c2f)
