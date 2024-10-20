@@ -1,5 +1,5 @@
 # Red-hat-linux OVA建置
-## 安裝指南 | [教學影片]()
+## 安裝指南 | [教學影片](https://youtu.be/NktRIs3miyc)
 - 請至[官方網站](https://developers.redhat.com/)註冊一個帳號
 - 選擇Github登入
 - ![image](https://github.com/user-attachments/assets/d491ffd9-e953-4bdc-a99d-0b215561e1d1)
