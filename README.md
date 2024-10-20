@@ -56,7 +56,7 @@
 - ![image](https://github.com/user-attachments/assets/656f8126-4fc0-4881-8d57-e3dd5a062e57)
 - 點選'Begin Installation'
 - ![螢幕擷取畫面 2024-10-20 114631](https://github.com/user-attachments/assets/8a01dc84-d549-4440-979d-309b2a302c73)
-- 開始安裝Red Hat Linux 系統
+- Red Hat Linux 系統安裝中
 - ![螢幕擷取畫面 2024-10-20 115154](https://github.com/user-attachments/assets/e4e93128-0e16-4c54-b50e-bd0c7ad69c2f)
 
 
