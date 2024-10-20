@@ -1,6 +1,6 @@
 # Red-hat-linux OVA建置
 ## 準備工作
-- 至[官方網站](https://developers.redhat.com/)註冊一個帳號
+- 請至[官方網站](https://developers.redhat.com/)註冊一個帳號
 - 選擇Github登入
 - ![image](https://github.com/user-attachments/assets/d491ffd9-e953-4bdc-a99d-0b215561e1d1)
 - ![螢幕擷取畫面 2024-10-20 103835](https://github.com/user-attachments/assets/95a2da35-ca8d-4193-b4c5-a24823510789)
