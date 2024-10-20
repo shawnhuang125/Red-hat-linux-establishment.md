@@ -45,6 +45,7 @@
 - ![image](https://github.com/user-attachments/assets/96d9648f-de1e-4592-89a1-6e2ba2c7c82d)
 - 設定ROOT密碼,點擊'ROOT PASSWORD'
 - ![image](https://github.com/user-attachments/assets/87bb5870-9c79-47d2-802d-5805deef1367)
+- 輸入你想要的密碼
 - ![image](https://github.com/user-attachments/assets/83013513-a4a4-4eb8-8daf-23047b93d1d9)
 - 點選'User Creation'
 - ![image](https://github.com/user-attachments/assets/05ba3481-d2a9-4ecc-937b-d206317b8999)
@@ -62,19 +63,4 @@
 
 
 
-
-
-
-
-
-
-- 選取「工作站」，這是適合一般桌上電腦用戶使用的設定。並將右邊額外的軟體都打勾。按左上角完成
-- 點選root，設定root密碼(六位數)，按左上角完成。
-- 點選建立一般使用者。建立一般使用者user，勾選加入至管理員。按左上角完成。
-- 回到安裝主界面，點選右下角的「安裝」，等它跑完。
-- 安裝後重開機。
-- 進入系統後，滑鼠移動到左上角的「概覽」開啟應用程式選單，找到「Red Hat訂閱管理程式」
-- 登入Redhat帳號，並註冊裝置。
-- 開啟終端機，輸入sudo dnf update指令，將系統套件都更新到最新版。
-- 設定完成
 
