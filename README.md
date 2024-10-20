@@ -36,7 +36,7 @@
 - ![image](https://github.com/user-attachments/assets/a650febc-cade-4af1-993a-f751027777e6)
 - 點選'Connect to Red Hat'
 - ![image](https://github.com/user-attachments/assets/8e775f33-ea34-4d53-89e3-f8fd2266890c)
-- ![image](https://github.com/user-attachments/assets/cfe3af60-a6ce-4e3c-826c-01852bfff344)
+- 輸入註冊的使用者名稱及密碼
 - ![image](https://github.com/user-attachments/assets/774f5a8b-ad9d-4fe8-97ab-a036e5bd60fa)
 - ![image](https://github.com/user-attachments/assets/8f59bcb7-a4b8-4fd3-90a8-ffb2f1bff32c)
 - 點選'Choose Software'
